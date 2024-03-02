@@ -1,16 +1,5 @@
 ## Storybook for React Apps
 
-This is MealDrop, the real-world app used in the [Storybook for React apps](https://www.newline.co/courses/storybook-for-react-apps) course built by [Yann Braga](https://twitter.com/yannbf) to serve as an example for all the cool things you can do with Storybook!
-
-It's a food delivery app built from scratch with:
-
-- Modern React with [Typescript](https://www.typescriptlang.org/) and hooks
-- Styles with [Styled components](http://styled-components.com/)
-- State management [Redux](https://redux.js.org/) with [@reduxjs/toolkit](https://redux-toolkit.js.org/)
-- Tests with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- Routing with [React router](https://reactrouter.com/)
-- Component explorer [Storybook](https://storybook.js.org/)
-
 ## Available Scripts
 
 In the project directory, you can run:
