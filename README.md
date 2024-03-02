@@ -22,13 +22,3 @@ Ideally you can just work on top of the main branch of this course. However, if 
 
 For instance, for module 03, you can find the branches `module-03-begin` and `module-03-end`.
 
-## Accessing the final version of this project
-
-The final code for this course can be found in the `module-06-end` branch.
-The end result is a limited version of the original MealDrop project, which contains every component in Storybook and more addons etc. and can be found [here](https://github.com/yannbf/mealdrop).
-
-## Accessing the course
-
-To access the course, just click on the image below:
-
-[![](./src/docs/assets/mealdrop-banner.png)](https://www.newline.co/courses/storybook-for-react-apps)
